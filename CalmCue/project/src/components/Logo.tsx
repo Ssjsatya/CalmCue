@@ -15,7 +15,7 @@ const Logo: React.FC<LogoProps> = ({ variant = 'full', size = 'md' }) => {
   return (
     <div className="flex items-center">
       <img 
-        src="https://i.imgur.com/HwISv0g.png" 
+        src="https://photos.app.goo.gl/3XMiwePoJrpJsTvs8" 
         alt="CalmCue Logo" 
         className={`${sizeClasses[size]}`} 
       />
